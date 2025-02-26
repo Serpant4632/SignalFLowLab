@@ -578,6 +578,34 @@
     [
       "ae3b9032-7d3b-4d3d-b0c4-04d57d4adfd8",
       "Root"
+    ],
+    [
+      "bbd7508d-fbb1-4405-aabd-ae9f132ec6fd",
+      "North_Street"
+    ],
+    [
+      "4618756f-e6d7-46e6-92e2-b057172b5b0c",
+      "East_Street"
+    ],
+    [
+      "13631304-9da9-48ea-9d2e-e2021af4623f",
+      "South_Street"
+    ],
+    [
+      "f6d9fb80-a6b1-44ee-8181-c5669334ee28",
+      "West_Street"
+    ],
+    [
+      "9cfc63da-af18-4b35-afc6-b2bbc9f7f1d8",
+      "MCU"
+    ],
+    [
+      "2776617c-3847-48c3-a8f1-9b7d89aaa8cd",
+      "Pheripherals"
+    ],
+    [
+      "919aa567-95cb-4140-ab24-da9be7ed179d",
+      "Powersupply"
     ]
   ],
   "text_variables": {}
